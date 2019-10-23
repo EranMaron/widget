@@ -127,7 +127,7 @@ ul {
   }
   
   .image-container h4 {
-  font-size: calc(.5em + 1vw);
+    font-size: calc(.5em + 1vw);
   }
   
   #ad-list li a h3 {
@@ -139,5 +139,6 @@ ul {
   
   #ad-list li .category-text {
     font-size: calc(.6em + 1vw);
+    padding: 0 5px;
   }
 }
