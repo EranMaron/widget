@@ -126,6 +126,10 @@ ul {
     height: 200px;
   }
   
+  .image-container h4 {
+  font-size: calc(.5em + 1vw);
+  }
+  
   #ad-list li a h3 {
     font-size: calc(1em + 1vw);
     height: calc((1.5em + 1vw) * 3);
